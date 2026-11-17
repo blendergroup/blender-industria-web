@@ -1,0 +1,16 @@
+BLENDER INDUSTRIA · SITIO ESTÁTICO
+
+Ver en tu computadora:
+  cd public
+  python3 -m http.server 8000
+  Abre http://localhost:8000
+
+Publicar en Firebase Hosting (desde esta carpeta):
+  firebase deploy --only hosting --project blender-sae-bi
+
+Dónde cambiar el contenido:
+  public/js/servicios.js    Textos de los 7 servicios
+  public/servicios/         Fotos de cada servicio
+  public/catalogo.json      Productos (sin precios ni existencias)
+  public/productos/         Fotos, fichas técnicas y hojas de seguridad
+  public/js/site.js         Teléfono y WhatsApp (primeras líneas)

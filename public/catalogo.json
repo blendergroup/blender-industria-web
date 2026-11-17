@@ -1,0 +1,893 @@
+{
+"fuente": "Blender Catálogo Industrial (10 pág.) + carpeta /Volumes/Diseño/PRODUCTOS/INDUSTRIA",
+"generado": "2026-10-01",
+"categorias": [
+{
+"slug": "densificadores-y-endurecedores",
+"nombre": "Densificadores químicos y minerales",
+"orden": 1
+},
+{
+"slug": "autonivelantes",
+"nombre": "Autonivelantes",
+"orden": 2
+},
+{
+"slug": "selladores-de-juntas",
+"nombre": "Selladores de juntas epóxicos y poliuretanos",
+"orden": 3
+},
+{
+"slug": "accesorios-para-juntas",
+"nombre": "Backer Rod",
+"orden": 4
+},
+{
+"slug": "fibras-para-concreto",
+"nombre": "Fibras para concreto",
+"orden": 5
+},
+{
+"slug": "grouts",
+"nombre": "Grouts estructurales",
+"orden": 6
+}
+],
+"productos": [
+{
+"orden": 1,
+"slug": "densificador-de-sodio",
+"nombre": "Densificador de Sodio",
+"marca": "DENSO HARD®",
+"categoria": "densificadores-y-endurecedores",
+"descripcion": "Densificador líquido a base de silicatos de sodio que proporciona una superficie más densa y resistente al tráfico peatonal y vehicular.",
+"beneficios": [
+"32% más resistencia a la abrasión",
+"Superficies anti-polveo",
+"Mantiene el brillo del piso por mucho más tiempo"
+],
+"especificaciones": [
+{
+"label": "pH",
+"valor": "11 ± 1"
+},
+{
+"label": "Densidad",
+"valor": "1,100 kg/m³"
+},
+{
+"label": "Viscosidad",
+"valor": "Similar al agua"
+},
+{
+"label": "Color",
+"valor": "Transparente"
+}
+],
+"rendimiento": "4 – 7 m²/L",
+"imagenes": {
+"producto": [
+{
+"archivo": "img/producto-1.webp",
+"miniatura": "img/producto-1-thumb.webp",
+"transparente": true
+},
+{
+"archivo": "img/producto-2.webp",
+"miniatura": "img/producto-2-thumb.webp",
+"transparente": true
+}
+],
+"ambiente": [
+{
+"archivo": "img/ambiente-1.webp",
+"miniatura": "img/ambiente-1-thumb.webp",
+"transparente": false
+}
+],
+"obra": [
+{
+"archivo": "img/obra-1.webp",
+"miniatura": "img/obra-1-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-2.webp",
+"miniatura": "img/obra-2-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-3.webp",
+"miniatura": "img/obra-3-thumb.webp",
+"transparente": false
+}
+],
+"diagrama": [],
+"logo_marca": "img/logo-marca.webp"
+},
+"documentos": {
+"ft-es": {
+"archivo": "docs/densificador-de-sodio-ft-es.pdf",
+"origen": "DENSO HARD/DOCUMENTACIÓN/FICHA TÉCNICA/FT - Denso Hard (ES).pdf",
+"bytes": 1406368
+},
+"ft-en": {
+"archivo": "docs/densificador-de-sodio-ft-en.pdf",
+"origen": "DENSO HARD/DOCUMENTACIÓN/FICHA TÉCNICA/FT - Denso Hard (EN).pdf",
+"bytes": 1413182
+},
+"hs-es": {
+"archivo": "docs/densificador-de-sodio-hs-es.pdf",
+"origen": "DENSO HARD/DOCUMENTACIÓN/HOJA DE SEGURIDAD/HS - Denso Hard (ES).pdf",
+"bytes": 108806
+},
+"hs-en": {
+"archivo": "docs/densificador-de-sodio-hs-en.pdf",
+"origen": "DENSO HARD/DOCUMENTACIÓN/HOJA DE SEGURIDAD/HS - Denso Hard (EN).pdf",
+"bytes": 107717
+}
+},
+"documentos_faltantes": []
+},
+{
+"orden": 2,
+"slug": "densificador-de-litio",
+"nombre": "Densificador de Litio",
+"marca": "LI-QUID HARD®",
+"categoria": "densificadores-y-endurecedores",
+"descripcion": "Densificador líquido a base de silicato de litio diseñado para aumentar la densidad superficial, mejorando la resistencia al desgaste provocado por el tráfico peatonal y vehicular. Penetra en el material poroso y reacciona químicamente para formar una matriz más consolidada y duradera. Además de mejorar la resistencia mecánica del sustrato, aumenta su durabilidad frente a agentes externos y prolonga la vida útil de la superficie tratada.",
+"beneficios": [
+"32% más resistencia a la abrasión",
+"Superficies anti-polveo",
+"Mantiene el brillo en el piso por mucho más tiempo"
+],
+"especificaciones": [
+{
+"label": "Porcentaje de sólidos",
+"valor": "15% ± 2"
+},
+{
+"label": "pH",
+"valor": "11 ± 1"
+},
+{
+"label": "Densidad",
+"valor": "1,100 kg/m³"
+},
+{
+"label": "Viscosidad",
+"valor": "Similar al agua"
+},
+{
+"label": "Color",
+"valor": "Transparente"
+}
+],
+"rendimiento": "7 – 12.75 m²/L",
+"imagenes": {
+"producto": [
+{
+"archivo": "img/producto-1.webp",
+"miniatura": "img/producto-1-thumb.webp",
+"transparente": true
+},
+{
+"archivo": "img/producto-2.webp",
+"miniatura": "img/producto-2-thumb.webp",
+"transparente": true
+}
+],
+"ambiente": [
+{
+"archivo": "img/ambiente-1.webp",
+"miniatura": "img/ambiente-1-thumb.webp",
+"transparente": false
+}
+],
+"obra": [
+{
+"archivo": "img/obra-1.webp",
+"miniatura": "img/obra-1-thumb.webp",
+"transparente": false
+}
+],
+"diagrama": [],
+"logo_marca": "img/logo-marca.webp"
+},
+"documentos": {
+"ft-es": {
+"archivo": "docs/densificador-de-litio-ft-es.pdf",
+"origen": "LIQUID HARD/DOCUMENTACIÓN/FICHA TÉCNICA/FT - Liquid Hard (ES).pdf",
+"bytes": 2318638
+},
+"ft-en": {
+"archivo": "docs/densificador-de-litio-ft-en.pdf",
+"origen": "LIQUID HARD/DOCUMENTACIÓN/FICHA TÉCNICA/FT - Liquid Hard (EN).pdf",
+"bytes": 2325799
+},
+"hs-es": {
+"archivo": "docs/densificador-de-litio-hs-es.pdf",
+"origen": "LIQUID HARD/DOCUMENTACIÓN/HOJA DE SEGURIDAD/HS - Liquid Hard (ES).pdf",
+"bytes": 108841
+},
+"hs-en": {
+"archivo": "docs/densificador-de-litio-hs-en.pdf",
+"origen": "LIQUID HARD/DOCUMENTACIÓN/HOJA DE SEGURIDAD/HS - Liquid Hard (EN).pdf",
+"bytes": 107630
+}
+},
+"documentos_faltantes": []
+},
+{
+"orden": 3,
+"slug": "mortero-autonivelante",
+"nombre": "Mortero Autonivelante",
+"marca": "ULTRA LEVEL HT 8.0",
+"categoria": "autonivelantes",
+"descripcion": "Compuesto autonivelante altamente resistente, ideal para entornos industriales, comerciales e institucionales, que destaca como revestimiento para acabados de pisos. Diseñado para una resistencia extrema al desgaste, con una formulación de base mineral compuesta por cementos especiales y aditivos de alto rendimiento. Al combinarse con agua forma un mortero autonivelante libre de contracción, adecuado para espesores de 6 a 40 mm (1/4\" a 1.57\").",
+"beneficios": [
+"Tiempo de trabajo de 25 min",
+"Listo para tránsito ligero en 2 – 3 horas",
+"Tiempo de secado de 24 horas para instalar piso",
+"Resistencia a la compresión de 10,000 PSI (710 kg/cm²)"
+],
+"especificaciones": [
+{
+"label": "Espesor de aplicación",
+"valor": "6 – 40 mm"
+},
+{
+"label": "Tiempo de trabajo",
+"valor": "25 min"
+},
+{
+"label": "Tránsito ligero",
+"valor": "2 – 3 h"
+},
+{
+"label": "Resistencia a la compresión",
+"valor": "710 kg/cm² (10,000 PSI) a 28 días · ASTM C109"
+},
+{
+"label": "Resistencia a la flexión",
+"valor": "75 kg/cm² a 28 días"
+},
+{
+"label": "Contenido de VOC",
+"valor": "0"
+}
+],
+"rendimiento": "4.85 m² por saco de 25 kg a 3 mm",
+"imagenes": {
+"producto": [
+{
+"archivo": "img/producto-1.webp",
+"miniatura": "img/producto-1-thumb.webp",
+"transparente": true
+}
+],
+"ambiente": [
+{
+"archivo": "img/ambiente-1.webp",
+"miniatura": "img/ambiente-1-thumb.webp",
+"transparente": false
+}
+],
+"obra": [
+{
+"archivo": "img/obra-1.webp",
+"miniatura": "img/obra-1-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-2.webp",
+"miniatura": "img/obra-2-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-3.webp",
+"miniatura": "img/obra-3-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-4.webp",
+"miniatura": "img/obra-4-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-5.webp",
+"miniatura": "img/obra-5-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-6.webp",
+"miniatura": "img/obra-6-thumb.webp",
+"transparente": false
+}
+],
+"diagrama": []
+},
+"documentos": {
+"ft-es": {
+"archivo": "docs/mortero-autonivelante-ft-es.pdf",
+"origen": "ULTRA LEVEL HT 8.0/DOCUMENTACIÓN/FICHA TÉCNICA/FT - Ultra Level HT 8.0 (ES).pdf",
+"bytes": 2762895
+},
+"ft-en": {
+"archivo": "docs/mortero-autonivelante-ft-en.pdf",
+"origen": "ULTRA LEVEL HT 8.0/DOCUMENTACIÓN/FICHA TÉCNICA/FT - Ultra Level HT 8.0 (EN).pdf",
+"bytes": 2788056
+},
+"hs-es": {
+"archivo": "docs/mortero-autonivelante-hs-es.pdf",
+"origen": "ULTRA LEVEL HT 8.0/DOCUMENTACIÓN/HOJA DE SEGURIDAD/HS - Ultra Level 8.0 (ES).pdf",
+"bytes": 144563
+},
+"hs-en": {
+"archivo": "docs/mortero-autonivelante-hs-en.pdf",
+"origen": "ULTRA LEVEL HT 8.0/DOCUMENTACIÓN/HOJA DE SEGURIDAD/HS - Ultra Level 8.0 (EN).pdf",
+"bytes": 143253
+}
+},
+"documentos_faltantes": [],
+"tabla_rendimiento": [
+{
+"espesor": "1.5 mm",
+"m2_por_saco": 9.7
+},
+{
+"espesor": "3 mm",
+"m2_por_saco": 4.85
+},
+{
+"espesor": "5 mm",
+"m2_por_saco": 2.9
+},
+{
+"espesor": "10 mm",
+"m2_por_saco": 1.45
+},
+{
+"espesor": "20 mm",
+"m2_por_saco": 0.7
+},
+{
+"espesor": "30 mm",
+"m2_por_saco": 0.47
+}
+],
+"presentaciones": [
+"Saco de 25 kg"
+]
+},
+{
+"orden": 4,
+"slug": "sellador-de-juntas-epoxico",
+"nombre": "Sellador de Juntas Epóxico",
+"marca": "Joint Seal Epoxy",
+"categoria": "selladores-de-juntas",
+"descripcion": "Sellador epóxico 100% sólidos diseñado para la protección de juntas de control (cortadas con sierra) en losas de concreto o para la reparación de juntas dañadas ya existentes. Absorbe eficazmente el impacto y el choque de cargas pesadas y tráfico de ruedas, previniendo la erosión y manteniendo el estado de los bordes de las juntas.",
+"beneficios": [
+"Fórmula bicomponente 1:1",
+"100% de elongación",
+"Cura en superficies húmedas",
+"Aprobado por la USDA"
+],
+"especificaciones": [
+{
+"label": "Sólidos",
+"valor": "100%"
+},
+{
+"label": "Mezcla",
+"valor": "Bicomponente 1:1"
+},
+{
+"label": "Elongación",
+"valor": "100%"
+}
+],
+"rendimiento": "2.6 m² a 3 mm",
+"imagenes": {
+"producto": [
+{
+"archivo": "img/producto-1.webp",
+"miniatura": "img/producto-1-thumb.webp",
+"transparente": true
+}
+],
+"ambiente": [],
+"obra": [
+{
+"archivo": "img/obra-1.webp",
+"miniatura": "img/obra-1-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-2.webp",
+"miniatura": "img/obra-2-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-3.webp",
+"miniatura": "img/obra-3-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-4.webp",
+"miniatura": "img/obra-4-thumb.webp",
+"transparente": true
+}
+],
+"diagrama": []
+},
+"documentos": {
+"ft-es": {
+"archivo": "docs/sellador-de-juntas-epoxico-ft-es.pdf",
+"origen": "JOINT SEAL/Joint seal epoxy/FT Joint Seal epoxy V4.pdf",
+"bytes": 874849
+},
+"ft-en": {
+"archivo": "docs/sellador-de-juntas-epoxico-ft-en.pdf",
+"origen": "JOINT SEAL/Joint seal epoxy/FT Joint Seal epoxy V3_EN.pdf",
+"bytes": 1706744
+}
+},
+"documentos_faltantes": [
+"hs-es",
+"hs-en"
+]
+},
+{
+"orden": 5,
+"slug": "sellador-de-juntas-poliuretano",
+"nombre": "Sellador de Juntas de Poliuretano",
+"marca": "Sellocret SL 600",
+"categoria": "selladores-de-juntas",
+"descripcion": "Sellador elastomérico de un solo componente a base de poliuretano para uso horizontal, que cura con la humedad del ambiente. Diseñado para el sellado de juntas de control y de expansión en pisos de concreto y pavimentos.",
+"aplicaciones": [
+"Carreteras y calles",
+"Pistas de aeropuertos",
+"Puentes",
+"Pisos industriales y comerciales",
+"Patios de maniobras, plazas y muelles"
+],
+"beneficios": [
+"Alta resistencia a la intemperie",
+"Amplia fuerza mecánica",
+"700% de elongación",
+"Mantiene su elasticidad de -40 °C a 80 °C"
+],
+"especificaciones": [
+{
+"label": "Componentes",
+"valor": "Monocomponente"
+},
+{
+"label": "Curado",
+"valor": "Con la humedad ambiente"
+},
+{
+"label": "Elongación",
+"valor": "700%"
+},
+{
+"label": "Rango de temperatura",
+"valor": "-40 °C a 80 °C"
+}
+],
+"rendimiento": null,
+"imagenes": {
+"producto": [
+{
+"archivo": "img/producto-1.webp",
+"miniatura": "img/producto-1-thumb.webp",
+"transparente": false
+}
+],
+"ambiente": [],
+"obra": [
+{
+"archivo": "img/obra-1.webp",
+"miniatura": "img/obra-1-thumb.webp",
+"transparente": true
+},
+{
+"archivo": "img/obra-2.webp",
+"miniatura": "img/obra-2-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-3.webp",
+"miniatura": "img/obra-3-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-4.webp",
+"miniatura": "img/obra-4-thumb.webp",
+"transparente": false
+}
+],
+"diagrama": [
+{
+"archivo": "img/diagrama-1.webp",
+"miniatura": "img/diagrama-1-thumb.webp",
+"transparente": false
+}
+]
+},
+"documentos": {
+"ft-es": {
+"archivo": "docs/sellador-de-juntas-poliuretano-ft-es.pdf",
+"origen": "SELLADOR SELLOCRET 600/HT V1Salchicha 600 sellocret Español.pdf",
+"bytes": 293928
+},
+"ft-en": {
+"archivo": "docs/sellador-de-juntas-poliuretano-ft-en.pdf",
+"origen": "SELLADOR SELLOCRET 600/Data Sheet.pdf",
+"bytes": 4248515
+}
+},
+"documentos_faltantes": [
+"hs-es",
+"hs-en"
+]
+},
+{
+"orden": 6,
+"slug": "backer-rod",
+"nombre": "Backer Rod",
+"marca": "Backer Rod",
+"categoria": "accesorios-para-juntas",
+"descripcion": "Material de respaldo compresible y no absorbente, diseñado para el control de la profundidad de las juntas, asegurando que se aplique el volumen correcto de sellador. Proporciona soporte, aísla el fondo de la junta de las fluctuaciones de temperatura y protege contra la humedad dentro de la cavidad de la junta.",
+"beneficios": [
+"Controla la profundidad de la junta",
+"Evita desperdicio de sellador",
+"Aísla y protege contra la humedad"
+],
+"especificaciones": [
+{
+"label": "Densidad",
+"valor": "32 kg/m³ (ASTM D-1622)"
+},
+{
+"label": "Resistencia a la tracción",
+"valor": "3.50 kg/cm² (ASTM D-1623)"
+},
+{
+"label": "Resistencia a la compresión",
+"valor": "0.28 kg/cm² (ASTM D-1621)"
+},
+{
+"label": "Temperatura de servicio",
+"valor": "-19 °C a 100 °C"
+}
+],
+"rendimiento": null,
+"imagenes": {
+"producto": [
+{
+"archivo": "img/producto-1.webp",
+"miniatura": "img/producto-1-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/producto-2.webp",
+"miniatura": "img/producto-2-thumb.webp",
+"transparente": false
+}
+],
+"ambiente": [],
+"obra": [
+{
+"archivo": "img/obra-1.webp",
+"miniatura": "img/obra-1-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-2.webp",
+"miniatura": "img/obra-2-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-3.webp",
+"miniatura": "img/obra-3-thumb.webp",
+"transparente": true
+},
+{
+"archivo": "img/obra-4.webp",
+"miniatura": "img/obra-4-thumb.webp",
+"transparente": false
+}
+],
+"diagrama": [
+{
+"archivo": "img/diagrama-1.webp",
+"miniatura": "img/diagrama-1-thumb.webp",
+"transparente": false
+}
+]
+},
+"documentos": {
+"ft-es": {
+"archivo": "docs/backer-rod-ft-es.pdf",
+"origen": "BACKER ROD/DOCUMENTACION/FT Backer-Rod V2- Español.pdf",
+"bytes": 148611
+}
+},
+"documentos_faltantes": [
+"ft-en",
+"hs-es",
+"hs-en"
+]
+},
+{
+"orden": 7,
+"slug": "microfibra",
+"nombre": "Microfibra",
+"marca": "Microfibra 600",
+"categoria": "fibras-para-concreto",
+"descripcion": "Refuerzo de multifilamento de polipropileno (fibras sueltas) diseñado para concreto y mortero. Su propósito principal es minimizar el agrietamiento por contracción plástica en el concreto fresco y por cambios de temperatura en el concreto endurecido. Fabricadas con polipropileno 100% virgen y tratadas con un dispersante, garantizan una distribución rápida y uniforme dentro del concreto con solo 3 a 5 minutos de mezclado.",
+"beneficios": [
+"Minimiza el agrietamiento por contracción plástica",
+"Polipropileno 100% virgen",
+"Distribución uniforme en 3 – 5 min de mezclado"
+],
+"especificaciones": [
+{
+"label": "Longitud de fibra",
+"valor": "19 mm (3/4\")"
+},
+{
+"label": "Densidad",
+"valor": "48.5 kg/m³"
+},
+{
+"label": "Resistencia a la tracción",
+"valor": "5,626 kg/cm²"
+},
+{
+"label": "Módulo de elasticidad",
+"valor": "38,690 kg/cm²"
+}
+],
+"rendimiento": "600 g/m³ de concreto",
+"imagenes": {
+"producto": [
+{
+"archivo": "img/producto-1.webp",
+"miniatura": "img/producto-1-thumb.webp",
+"transparente": true
+}
+],
+"ambiente": [],
+"obra": [
+{
+"archivo": "img/obra-1.webp",
+"miniatura": "img/obra-1-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-2.webp",
+"miniatura": "img/obra-2-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-3.webp",
+"miniatura": "img/obra-3-thumb.webp",
+"transparente": false
+}
+],
+"diagrama": []
+},
+"documentos": {
+"ft-es": {
+"archivo": "docs/microfibra-ft-es.pdf",
+"origen": "MICROFIBRA/FICHA TÉCNICA/FT - Microfibra 600 (ES).pdf",
+"bytes": 2339125
+},
+"ft-en": {
+"archivo": "docs/microfibra-ft-en.pdf",
+"origen": "MICROFIBRA/FICHA TÉCNICA/FT - Microfibra 600 (EN).pdf",
+"bytes": 2345320
+}
+},
+"documentos_faltantes": [
+"hs-es",
+"hs-en"
+],
+"presentaciones": [
+"Bolsa de 600 g — 600 g/m³ de concreto",
+"Bolsa de 100 g — 100 g por saco de cemento"
+]
+},
+{
+"orden": 8,
+"slug": "endurecedor-mineral",
+"nombre": "Endurecedor Mineral",
+"marca": "QUARTZSTONE FF®",
+"categoria": "densificadores-y-endurecedores",
+"descripcion": "Mezcla preparada en fábrica y lista para usar, completamente libre de contaminantes. Agregado endurecedor de sílice no metálico con una pureza del 98%, graduado científicamente para aplicaciones tempranas en pisos de concreto que requieren cumplir las normas de planicidad ACI-117 y ASTM E-1155. Se aplica sobre concreto recién colocado, con un espesor de adherencia que cumple con la norma ACI 302.",
+"beneficios": [
+"Agregados con 98% de sílice",
+"Provee superficies libres de polvo",
+"4 veces más resistencia a la abrasión"
+],
+"especificaciones": [
+{
+"label": "Pureza de sílice",
+"valor": "98%"
+},
+{
+"label": "Normas",
+"valor": "ACI-117, ASTM E-1155, ACI 302"
+}
+],
+"rendimiento": "4.88 – 7.32 kg/m²",
+"imagenes": {
+"producto": [
+{
+"archivo": "img/producto-1.webp",
+"miniatura": "img/producto-1-thumb.webp",
+"transparente": true
+}
+],
+"ambiente": [
+{
+"archivo": "img/ambiente-1.webp",
+"miniatura": "img/ambiente-1-thumb.webp",
+"transparente": false
+}
+],
+"obra": [
+{
+"archivo": "img/obra-1.webp",
+"miniatura": "img/obra-1-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-2.webp",
+"miniatura": "img/obra-2-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-3.webp",
+"miniatura": "img/obra-3-thumb.webp",
+"transparente": false
+}
+],
+"diagrama": [],
+"logo_marca": "img/logo-marca.webp"
+},
+"documentos": {
+"ft-es": {
+"archivo": "docs/endurecedor-mineral-ft-es.pdf",
+"origen": "QUARTZTONE/DOCUMENTACIÓN/FICHA TÉCNICA/FT - Quartzstone FF (ES).pdf",
+"bytes": 4536385
+},
+"ft-en": {
+"archivo": "docs/endurecedor-mineral-ft-en.pdf",
+"origen": "QUARTZTONE/DOCUMENTACIÓN/FICHA TÉCNICA/FT - Quartzstone FF (EN).pdf",
+"bytes": 4542344
+},
+"hs-es": {
+"archivo": "docs/endurecedor-mineral-hs-es.pdf",
+"origen": "QUARTZTONE/DOCUMENTACIÓN/HOJA DE SEGURIDAD/HS - Quartzstone (ES).pdf",
+"bytes": 113819
+},
+"hs-en": {
+"archivo": "docs/endurecedor-mineral-hs-en.pdf",
+"origen": "QUARTZTONE/DOCUMENTACIÓN/HOJA DE SEGURIDAD/HS - Quartzstone (EN).pdf",
+"bytes": 111566
+}
+},
+"documentos_faltantes": []
+},
+{
+"orden": 9,
+"slug": "grout-estructural",
+"nombre": "Grout Estructural",
+"marca": "Blendergrout",
+"categoria": "grouts",
+"descripcion": "Grout estructural de alta resistencia y sin contracción (non-shrink), elaborado a partir de arenas de sílice graduadas, cemento Portland, mejoradores de fluidez y compensadores de contracción. Formulado para ofrecer un volumen estable y alta fluidez en consistencias que van de plásticas a fluidas.",
+"beneficios": [
+"Alta resistencia temprana sin contracción intermitente o latente",
+"Estable y libre de fallas bajo compresión, impactos, presiones laterales, altas temperaturas o vibraciones continuas",
+"Alta fluidez para una colocación sencilla, con cero exudación"
+],
+"especificaciones": [
+{
+"label": "Tipo",
+"valor": "Non-shrink, base cemento Portland"
+},
+{
+"label": "Consistencia",
+"valor": "Plástica a fluida"
+},
+{
+"label": "Resistencia a la compresión",
+"valor": "7,300 PSI"
+}
+],
+"rendimiento": null,
+"imagenes": {
+"producto": [
+{
+"archivo": "img/producto-1.webp",
+"miniatura": "img/producto-1-thumb.webp",
+"transparente": true
+}
+],
+"ambiente": [
+{
+"archivo": "img/ambiente-1.webp",
+"miniatura": "img/ambiente-1-thumb.webp",
+"transparente": false
+}
+],
+"obra": [
+{
+"archivo": "img/obra-1.webp",
+"miniatura": "img/obra-1-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-2.webp",
+"miniatura": "img/obra-2-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-3.webp",
+"miniatura": "img/obra-3-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-4.webp",
+"miniatura": "img/obra-4-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-5.webp",
+"miniatura": "img/obra-5-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-6.webp",
+"miniatura": "img/obra-6-thumb.webp",
+"transparente": false
+},
+{
+"archivo": "img/obra-7.webp",
+"miniatura": "img/obra-7-thumb.webp",
+"transparente": false
+}
+],
+"diagrama": [],
+"logo_marca": "img/logo-marca.webp"
+},
+"documentos": {
+"ft-es": {
+"archivo": "docs/grout-estructural-ft-es.pdf",
+"origen": "BLENDERGROUT/DOCUMENTACIÓN/FICHA TÉCNICA/FT - Blendergrout (ES).pdf",
+"bytes": 3748887
+},
+"ft-en": {
+"archivo": "docs/grout-estructural-ft-en.pdf",
+"origen": "BLENDERGROUT/DOCUMENTACIÓN/FICHA TÉCNICA/FT - Blendergrout (EN).pdf",
+"bytes": 3755677
+},
+"hs-es": {
+"archivo": "docs/grout-estructural-hs-es.pdf",
+"origen": "BLENDERGROUT/DOCUMENTACIÓN/HOJA DE SEGURIDAD/HS - Blendergrout (ES).pdf",
+"bytes": 115934
+},
+"hs-en": {
+"archivo": "docs/grout-estructural-hs-en.pdf",
+"origen": "BLENDERGROUT/DOCUMENTACIÓN/HOJA DE SEGURIDAD/HS - Blendergrout (EN).pdf",
+"bytes": 115162
+}
+},
+"documentos_faltantes": []
+}
+]
+}
